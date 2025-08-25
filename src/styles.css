@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.head-container {
+  display: flex;
+}
+.heading {
+  padding: 5px;
+  border: 1px solid;
+  cursor: pointer;
+}
+.body-container {
+  border: 1px solid;
+  height: 200px;
+  padding: 5px;
+}
+.HomeData {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+}
+.InterestsData {
+  display: flex;
+  flex-direction: column;
+}
+.buttons {
+  text-align: center;
+}
+.nameError {
+  color: red;
+}
